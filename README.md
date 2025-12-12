@@ -1,5 +1,1 @@
-<div>
-  <p display="inline">Привет, меня зовут</p>
-  <h1 display="inline">Костя</h1>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
-</div>
+<h1>Привет, меня зовут Константин<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
