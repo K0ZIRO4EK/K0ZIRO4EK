@@ -16,3 +16,13 @@
     <img src="https://img.icons8.com/?size=100&id=13677&format=png&color=000000" width="64px" />
     <img src="https://img.icons8.com/?size=100&id=13631&format=png&color=000000" width="64px" />
 </p>
+
+:brain: **Сейчас я углублённо изучаю JavaScript**, чтобы создавать более динамичные и сложные веб-сайты. Моя главная профессиональная цель — стать сильным специалистом и **найти работу frontend-разработчика на удалёнке**.
+
+## :mailbox_with_mail: Связаться со мной
+Я всегда открыт к интересным предложениям, обсуждению идей или просто к профессиональному общению. Лучший способ связаться со мной:
+* <a href="https://vk.com/k0ziro4ek"><img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="32px" /> [vk.com/k0ziro4ek](https://vk.com/k0ziro4ek)</a>
+* <a href="https://t.me/K0ZIRO4EK"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="32px" /> [@K0ZIRO4EK](https://t.me/K0ZIRO4EK)</a>
+
+## :zap: За пределами кода
+Когда я не за компьютером, меня можно найти в спортзале, на велосипедной прогулке или за какой-нибудь новой **видеоигрой**. Я люблю изучать новое — будь то новый язык программирования, новое эффективное упражнение или просто интересный факт о мире.
