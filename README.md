@@ -9,6 +9,6 @@
 ## :mailbox_with_mail: Связаться со мной
 Я всегда открыт к интересным предложениям, обсуждению идей или просто к профессиональному общению.
 Лучший способ связаться со мной:
-* <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" /> [vk.com/k0ziro4ek](https://vk.com/k0ziro4ek)
+* <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="32px" /> [vk.com/k0ziro4ek](https://vk.com/k0ziro4ek)
 
 ## :zap:
