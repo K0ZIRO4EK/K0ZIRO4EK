@@ -3,7 +3,7 @@
 Я — frontend-разработчик, который превращает мысли в чистый и практичный код.
 
 ## Технологии:
-<p align="center">
+<p align="left">
     <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="64px" style="vertical-align: middle;" />
     <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="64px" style="vertical-align: middle;" />
 </p>
