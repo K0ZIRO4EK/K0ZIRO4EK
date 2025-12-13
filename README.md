@@ -11,4 +11,6 @@
 * <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="32px" /> [vk.com/k0ziro4ek](https://vk.com/k0ziro4ek)
 * <img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" width="32px" /> [@K0ZIRO4EK](https://t.me/K0ZIRO4EK)
 
-## :zap:
+## :zap: За пределами кода
+Когда я не за компьютером, меня можно найти в спортзале, на велосипедной прогулке или за какой-нибудь новой **видеоигрой**. Я люблю изучать новое — будь то новый язык программирования, новое эффективное упражнение или просто интересный факт о мире.
+
